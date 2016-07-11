@@ -1,5 +1,5 @@
 {
-    "name": "league/fractal",
+    "name": "mammutgroup/fractal",
     "description": "Handle the output of complex data structures ready for API output.",
     "keywords": [
         "league",
